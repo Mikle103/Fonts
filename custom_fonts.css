@@ -5,9 +5,17 @@
   font-style: normal;
 }*/
 
-@font-face {
+/*@font-face {
     font-family: 'cromregular';
     src: url('font_files/crom_v1.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+
+@font-face {
+    font-family: 'cromregular';
+    src: url('font_files\crom_v1-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
