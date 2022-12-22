@@ -7,7 +7,7 @@
 }
 @font-face {
     font-family: 'hamletregular';
-    src: url('hamletregular-webfont.woff2') format('woff2')
+    src: url('hamletregular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
