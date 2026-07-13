@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'cromregular';
+    font-family: 'crom-regular';
     src: url('crom_v1-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'hamletregular';
+    font-family: 'hamlet-regular';
     src: url('hamletregular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
