@@ -13,3 +13,11 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'wend';
+    src: url('wend-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
